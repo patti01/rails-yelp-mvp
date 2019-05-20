@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'faker'
 gem 'simple_form'
 
 # Reduces boot times through caching; required in config/boot.rb
